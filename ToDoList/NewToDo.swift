@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct NewToDo: View {
+  
     var body: some View {
         VStack{
             Text("Text Title")
